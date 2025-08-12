@@ -1202,3 +1202,62 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.12-17.14.46:138][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1778.970215
 [2025.08.12-17.14.47:138][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.12-17.14.47:139][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1779.627197, Update Interval: 329.162262
+[2025.08.12-17.20.09:484][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.12-17.20.09:617][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpeningMap/6/ID/4GA2FTEAY02LRCSMQ2VAX2
+[2025.08.12-17.20.09:618][485]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/4GA2FTEAY02LRCSMQ2VAX2553CF2564CF998C0DF21F6BD1677ED21.tmp' to '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/__ExternalActors__/OpeningMap/6/ID/4GA2FTEAY02LRCSMQ2VAX2.uasset'
+[2025.08.12-17.20.09:632][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.890 ms (total: 333.394 ms)
+[2025.08.12-17.20.09:698][485]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.12-17.20.09:699][485]LogContentValidation: Enabled validators:
+[2025.08.12-17.20.09:699][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.12-17.20.09:699][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.12-17.20.09:699][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.12-17.20.09:699][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.12-17.20.09:699][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.12-17.20.09:699][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.12-17.20.09:699][485]AssetCheck: /Game/OpeningMap Validating asset
+[2025.08.12-17.21.08:516][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2161.348145
+[2025.08.12-17.21.09:513][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.12-17.21.09:513][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2162.010010, Update Interval: 305.898010
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: ================================================
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: Total job queries 353, among them cache hits 28 (7.93%), DDC hits 253 (71.67%), Duplicates 67 (18.98%)
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: Tracking 258 distinct input hashes that result in 181 distinct outputs (70.16%)
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: RAM used: 2.64 MiB of 716.80 MiB budget. Usage: 0.37%
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: Job execution time: average 1.99 s, max 2.17 s
+[2025.08.12-17.21.17:837][770]LogShaderCompilers: Display: Job life time (pending + execution): average 2.02 s, max 2.19
+[2025.08.12-17.21.17:852][770]LogShaderCompilers: Display: Shader code size: total 34.688 KiB, numShaders 5, average 6.938 KiB, min 5.562 KiB, max 7.852 KiB
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.24 s
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Average processing rate: 2.23 jobs/sec
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Total thread time: 3.854 s
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Total thread preprocess time: 6.431 s
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Percentage time preprocessing: 166.88%
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.215131
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 48.19% of total time (compiled    2 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.54% of total time (compiled    2 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                                  FHitProxyVS - 17.27% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: === Material stats ===
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Materials Translated:    139
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Material Translation Only: 0.05 s (38%)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: Material Cache Hits: 16 (12%)
+[2025.08.12-17.21.17:853][770]LogShaderCompilers: Display: ================================================
+[2025.08.12-17.21.41:172][840]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.08.12-17.21.41:173][840]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/Developers/natha/Collections/' because it could not be accessed. Aborting watch request...
+[2025.08.12-17.21.41:173][840]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/Collections/' because it could not be accessed. Aborting watch request...
