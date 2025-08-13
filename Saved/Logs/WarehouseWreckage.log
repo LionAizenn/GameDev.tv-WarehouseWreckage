@@ -1990,3 +1990,482 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.13-03.50.16:064][448]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
 [2025.08.13-03.50.16:076][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
 [2025.08.13-03.50.16:158][449]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.08.13-03.53.04:342][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.08.13-03.53.04:378][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2025.08.13-03.53.04:378][630]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/Minimal_Default_Auto1198351EB48F34D41EF7214B7E1A548D2.tmp' to '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2025.08.13-03.53.04:382][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.080
+[2025.08.13-03.53.04:382][630]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2025.08.13-03.54.18:752][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.08.13-03.54.18:752][323]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.08.13-03.54.18:753][323]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_0
+[2025.08.13-03.54.18:755][323]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_0
+[2025.08.13-03.54.21:903][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.08.13-03.54.21:906][407]LogEditorActor: Deleted 0 Actors (0.058 secs)
+[2025.08.13-03.54.21:913][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.08.13-03.54.21:913][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.08.13-03.54.21:915][407]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_3
+[2025.08.13-03.54.21:915][407]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_3
+[2025.08.13-03.54.45:649][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1684.471924
+[2025.08.13-03.54.45:914][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-03.54.45:914][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1684.601685, Update Interval: 311.464569
+[2025.08.13-03.55.33:966][358]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2025.08.13-03.55.33:997][358]LogActorComponent: UnregisterComponent: (/Game/StarterContent/Maps/BP_Projectile.Default__BP_Projectile_C:StaticMeshComponent0) Not registered. Aborting.
+[2025.08.13-03.55.34:045][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.08.13-03.55.34:102][358]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile
+[2025.08.13-03.55.34:103][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.13-03.55.34:218][358]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.13-03.55.34:258][358]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.08.13-03.55.34:274][358]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.08.13-03.56.01:050][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.13-03.56.16:563][234]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-03.56.16:564][234]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-03.56.16:565][234]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_1
+[2025.08.13-03.56.16:565][234]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_1
+[2025.08.13-03.56.16:568][234]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.08.13-03.56.17:682][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.13-03.56.17:685][267]LogEditorActor: Deleted 0 Actors (0.058 secs)
+[2025.08.13-03.56.17:691][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-03.56.17:691][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-03.56.17:692][267]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_2
+[2025.08.13-03.56.17:692][267]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_2
+[2025.08.13-03.57.43:274][486]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.13-03.57.53:489][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.13-03.57.53:578][ 41]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StarterContent/Maps/BP_Projectile] ([2] browsable assets)...
+[2025.08.13-03.57.53:731][ 41]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile]
+[2025.08.13-03.57.53:731][ 41]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.08.13-03.57.53:775][ 41]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C]
+[2025.08.13-03.57.53:775][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/BP_Projectile]
+[2025.08.13-03.57.53:795][ 41]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BP_Projectile
+[2025.08.13-03.57.53:796][ 41]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/BP_Projectile386998E7400C7ADDCFF7A686F3B12C53.tmp' to '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset'
+[2025.08.13-03.57.53:813][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 323.665 ms (total: 866.764 ms)
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: Enabled validators:
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.13-03.57.53:880][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.13-03.57.53:880][ 41]AssetCheck: /Game/StarterContent/Maps/BP_Projectile Validating asset
+[2025.08.13-03.57.53:906][ 41]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.13-03.58.28:890][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.13-03.58.28:905][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.13-03.58.28:905][288]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-03.58.28:912][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007261s)
+[2025.08.13-03.58.28:912][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007343s)
+[2025.08.13-03.58.28:958][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.08.13-03.58.28:962][288]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.08.13-03.58.28:965][288]LogPlayLevel: PIE: World Init took: (0.002489s)
+[2025.08.13-03.58.28:966][288]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.13-03.58.28:966][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.13-03.58.28:966][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.13-03.58.28:966][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.13-03.58.28:966][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.13-03.58.28:966][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.13-03.58.28:966][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.13-03.58.28:966][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.13-03.58.28:966][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.13-03.58.28:966][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.13-03.58.28:966][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.13-03.58.28:966][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.13-03.58.28:969][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.13-03.58.28:993][288]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.13-03.58.28:994][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.13-03.58.28:994][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.13-03.58.28:994][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.13-03.58.28:994][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.13-03.58.28:995][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.13-03.58.28:997][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.13-03.58.28:997][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.13-03.58.28:997][288]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.13-03.58.28:997][288]LogAudio: Display: Audio Device (ID: 16) registered with world 'Minimal_Default'.
+[2025.08.13-03.58.28:997][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.13-03.58.29:008][288]LogLoad: Game class is 'GameModeBase'
+[2025.08.13-03.58.29:010][288]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2025.08.12-22.58.29
+[2025.08.13-03.58.29:010][288]LogWorld: Bringing up level for play took: 0.001407
+[2025.08.13-03.58.29:014][288]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.08.13-03.58.29:016][288]LogBlueprintUserMessages: [Minimal_Default_C_13] Welcome to Warehouse Wreckage!!!
+[2025.08.13-03.58.29:016][288]LogBlueprintUserMessages: [Minimal_Default_C_13] Get ready to rumble!!
+[2025.08.13-03.58.29:016][288]PIE: Server logged in
+[2025.08.13-03.58.29:018][288]PIE: Play in editor total start time 0.115 seconds.
+[2025.08.13-03.59.08:314][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-03.59.08:314][608]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-03.59.08:314][608]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.08.13-03.59.08:315][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-03.59.08:359][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.13-03.59.08:370][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-03.59.08:419][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-03.59.08:419][608]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.13-03.59.08:419][608]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.08.13-03.59.08:422][608]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.08.13-03.59.08:431][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.08.13-03.59.08:510][609]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.08.13-03.59.49:780][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2025.08.13-03.59.51:614][792]LogShaderCompilers: Display: ================================================
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Total job queries 407, among them cache hits 50 (12.29%), DDC hits 292 (71.74%), Duplicates 64 (15.72%)
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Tracking 293 distinct input hashes that result in 207 distinct outputs (70.65%)
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: RAM used: 2.85 MiB of 716.80 MiB budget. Usage: 0.40%
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Job execution time: average 1.73 s, max 1.73 s
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Job life time (pending + execution): average 1.75 s, max 1.75
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Shader code size: total 8.902 KiB, numShaders 1, average 8.902 KiB, min 8.902 KiB, max 8.902 KiB
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.75 s
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Average processing rate: 0.57 jobs/sec
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Total thread time: 0.781 s
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Total thread preprocess time: 7.158 s
+[2025.08.13-03.59.51:615][792]LogShaderCompilers: Display: Percentage time preprocessing: 916.93%
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Effective parallelization: 0.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.055665
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: === Material stats ===
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Materials Translated:    148
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: Material Cache Hits: 21 (14%)
+[2025.08.13-03.59.51:616][792]LogShaderCompilers: Display: ================================================
+[2025.08.13-03.59.58:261][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.13-03.59.58:325][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Maps/BP_Projectile] ([2] browsable assets)...
+[2025.08.13-03.59.58:346][ 49]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile]
+[2025.08.13-03.59.58:346][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/BP_Projectile]
+[2025.08.13-03.59.58:362][ 49]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BP_Projectile
+[2025.08.13-03.59.58:363][ 49]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/BP_ProjectileD69B86184AE8AAB83BAF94A2D4C3BC27.tmp' to '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset'
+[2025.08.13-03.59.58:375][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.331 ms (total: 981.095 ms)
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: Enabled validators:
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.13-03.59.58:440][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.13-03.59.58:440][ 49]AssetCheck: /Game/StarterContent/Maps/BP_Projectile Validating asset
+[2025.08.13-04.00.01:181][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.13-04.00.01:195][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.13-04.00.01:196][139]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.00.01:206][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009495s)
+[2025.08.13-04.00.01:206][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009601s)
+[2025.08.13-04.00.01:272][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.13-04.00.01:277][139]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.08.13-04.00.01:279][139]LogPlayLevel: PIE: World Init took: (0.002081s)
+[2025.08.13-04.00.01:280][139]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.08.13-04.00.01:280][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.13-04.00.01:280][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.13-04.00.01:281][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.13-04.00.01:281][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.13-04.00.01:281][139]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.13-04.00.01:281][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.13-04.00.01:281][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.13-04.00.01:281][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.13-04.00.01:281][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.13-04.00.01:281][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.13-04.00.01:281][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.13-04.00.01:284][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.13-04.00.01:308][139]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.13-04.00.01:309][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.13-04.00.01:309][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.13-04.00.01:309][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.13-04.00.01:309][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.08.13-04.00.01:309][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.08.13-04.00.01:313][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.08.13-04.00.01:313][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.08.13-04.00.01:313][139]LogInit: FAudioDevice initialized with ID 17.
+[2025.08.13-04.00.01:313][139]LogAudio: Display: Audio Device (ID: 17) registered with world 'Minimal_Default'.
+[2025.08.13-04.00.01:313][139]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.13-04.00.01:318][139]LogLoad: Game class is 'GameModeBase'
+[2025.08.13-04.00.01:319][139]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2025.08.12-23.00.01
+[2025.08.13-04.00.01:319][139]LogWorld: Bringing up level for play took: 0.001211
+[2025.08.13-04.00.01:323][139]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.08.13-04.00.01:325][139]LogBlueprintUserMessages: [Minimal_Default_C_13] Welcome to Warehouse Wreckage!!!
+[2025.08.13-04.00.01:325][139]LogBlueprintUserMessages: [Minimal_Default_C_13] Get ready to rumble!!
+[2025.08.13-04.00.01:326][139]PIE: Server logged in
+[2025.08.13-04.00.01:328][139]PIE: Play in editor total start time 0.133 seconds.
+[2025.08.13-04.00.12:134][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.00.12:134][444]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.00.12:134][444]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.08.13-04.00.12:134][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.00.12:145][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.13-04.00.12:165][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.00.12:221][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.00.12:222][444]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.13-04.00.12:222][444]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.08.13-04.00.12:225][444]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.08.13-04.00.12:236][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.08.13-04.00.12:319][445]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.08.13-04.00.22:732][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.13-04.00.22:748][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.13-04.00.22:748][744]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.00.22:752][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005791s)
+[2025.08.13-04.00.22:752][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005835s)
+[2025.08.13-04.00.22:786][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.13-04.00.22:789][744]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.08.13-04.00.22:791][744]LogPlayLevel: PIE: World Init took: (0.001947s)
+[2025.08.13-04.00.22:792][744]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.08.13-04.00.22:792][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.13-04.00.22:792][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.13-04.00.22:792][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.13-04.00.22:792][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.13-04.00.22:792][744]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.13-04.00.22:792][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.13-04.00.22:792][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.13-04.00.22:792][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.13-04.00.22:793][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.13-04.00.22:793][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.13-04.00.22:793][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.13-04.00.22:795][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.13-04.00.22:823][744]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.13-04.00.22:824][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.13-04.00.22:824][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.13-04.00.22:824][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.13-04.00.22:824][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.08.13-04.00.22:824][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.08.13-04.00.22:828][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.08.13-04.00.22:828][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.08.13-04.00.22:828][744]LogInit: FAudioDevice initialized with ID 18.
+[2025.08.13-04.00.22:828][744]LogAudio: Display: Audio Device (ID: 18) registered with world 'Minimal_Default'.
+[2025.08.13-04.00.22:828][744]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.13-04.00.22:834][744]LogLoad: Game class is 'GameModeBase'
+[2025.08.13-04.00.22:835][744]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2025.08.12-23.00.22
+[2025.08.13-04.00.22:835][744]LogWorld: Bringing up level for play took: 0.001195
+[2025.08.13-04.00.22:838][744]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.08.13-04.00.22:840][744]LogBlueprintUserMessages: [Minimal_Default_C_13] Welcome to Warehouse Wreckage!!!
+[2025.08.13-04.00.22:840][744]LogBlueprintUserMessages: [Minimal_Default_C_13] Get ready to rumble!!
+[2025.08.13-04.00.22:841][744]PIE: Server logged in
+[2025.08.13-04.00.22:844][744]PIE: Play in editor total start time 0.096 seconds.
+[2025.08.13-04.00.37:286][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2036.110596
+[2025.08.13-04.00.37:466][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-04.00.37:466][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2036.256226, Update Interval: 308.082520
+[2025.08.13-04.00.38:854][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.00.38:854][183]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.00.38:854][183]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.08.13-04.00.38:855][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.00.38:889][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.13-04.00.38:906][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.00.38:959][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.00.38:959][183]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.13-04.00.38:959][183]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.08.13-04.00.38:962][183]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.08.13-04.00.38:971][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.08.13-04.00.39:051][184]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.08.13-04.01.06:984][395]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.13-04.01.06:997][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.13-04.01.06:997][395]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.01.07:006][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007827s)
+[2025.08.13-04.01.07:006][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007914s)
+[2025.08.13-04.01.07:071][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.08.13-04.01.07:075][395]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.08.13-04.01.07:077][395]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2025.08.13-04.01.07:078][395]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.08.13-04.01.07:079][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.13-04.01.07:079][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.13-04.01.07:079][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.13-04.01.07:079][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.13-04.01.07:079][395]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.13-04.01.07:079][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.13-04.01.07:079][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.13-04.01.07:079][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.13-04.01.07:079][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.13-04.01.07:079][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.13-04.01.07:079][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.13-04.01.07:082][395]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.13-04.01.07:107][395]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.13-04.01.07:107][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.13-04.01.07:107][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.13-04.01.07:107][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.13-04.01.07:109][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.08.13-04.01.07:109][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.08.13-04.01.07:111][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.08.13-04.01.07:112][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.08.13-04.01.07:112][395]LogInit: FAudioDevice initialized with ID 19.
+[2025.08.13-04.01.07:112][395]LogAudio: Display: Audio Device (ID: 19) registered with world 'Minimal_Default'.
+[2025.08.13-04.01.07:112][395]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.08.13-04.01.07:117][395]LogLoad: Game class is 'GameModeBase'
+[2025.08.13-04.01.07:119][395]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2025.08.12-23.01.07
+[2025.08.13-04.01.07:119][395]LogWorld: Bringing up level for play took: 0.001307
+[2025.08.13-04.01.07:122][395]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.08.13-04.01.07:123][395]LogBlueprintUserMessages: [Minimal_Default_C_13] Welcome to Warehouse Wreckage!!!
+[2025.08.13-04.01.07:123][395]LogBlueprintUserMessages: [Minimal_Default_C_13] Get ready to rumble!!
+[2025.08.13-04.01.07:124][395]PIE: Server logged in
+[2025.08.13-04.01.07:127][395]PIE: Play in editor total start time 0.13 seconds.
+[2025.08.13-04.01.16:893][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.01.16:893][660]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.01.16:893][660]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.08.13-04.01.16:893][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.01.16:919][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.13-04.01.16:936][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.01.16:986][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.01.16:986][660]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.08.13-04.01.16:987][660]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.08.13-04.01.16:990][660]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.08.13-04.01.16:999][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.13-04.01.17:078][661]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.08.13-04.01.28:508][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.13-04.01.28:689][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.08.13-04.01.28:716][990]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2025.08.13-04.01.28:716][990]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/Minimal_Default88697CE64FDBCB3A71A340AC692E76DB.tmp' to '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2025.08.13-04.01.28:729][990]LogFileHelpers: All files are already saved.
+[2025.08.13-04.01.28:729][990]LogFileHelpers: Saving map 'Minimal_Default' took 0.092
+[2025.08.13-04.01.28:741][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.430 ms (total: 1.21 sec)
+[2025.08.13-04.01.28:800][990]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.13-04.01.28:800][990]LogContentValidation: Enabled validators:
+[2025.08.13-04.01.28:801][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.13-04.01.28:801][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.13-04.01.28:801][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.13-04.01.28:801][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.13-04.01.28:801][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.13-04.01.28:801][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.13-04.01.28:801][990]AssetCheck: /Game/StarterContent/Maps/Minimal_Default Validating asset
+[2025.08.13-04.01.30:797][ 52]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.13-04.01.30:810][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.13-04.01.30:811][ 52]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.01.30:820][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009001s)
+[2025.08.13-04.01.30:820][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009085s)
+[2025.08.13-04.01.30:878][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.08.13-04.01.30:881][ 52]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.08.13-04.01.30:883][ 52]LogPlayLevel: PIE: World Init took: (0.002685s)
+[2025.08.13-04.01.30:884][ 52]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.08.13-04.01.30:884][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.13-04.01.30:884][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.13-04.01.30:884][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.13-04.01.30:884][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.13-04.01.30:884][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.13-04.01.30:884][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.13-04.01.30:884][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.13-04.01.30:884][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.13-04.01.30:884][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.13-04.01.30:884][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.13-04.01.30:884][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.13-04.01.30:887][ 52]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.13-04.01.30:912][ 52]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.13-04.01.30:912][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.13-04.01.30:912][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.13-04.01.30:912][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.13-04.01.30:913][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.08.13-04.01.30:913][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.08.13-04.01.30:916][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.08.13-04.01.30:916][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.08.13-04.01.30:916][ 52]LogInit: FAudioDevice initialized with ID 20.
+[2025.08.13-04.01.30:916][ 52]LogAudio: Display: Audio Device (ID: 20) registered with world 'Minimal_Default'.
+[2025.08.13-04.01.30:916][ 52]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.08.13-04.01.30:921][ 52]LogLoad: Game class is 'GameModeBase'
+[2025.08.13-04.01.30:922][ 52]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2025.08.12-23.01.30
+[2025.08.13-04.01.30:922][ 52]LogWorld: Bringing up level for play took: 0.001376
+[2025.08.13-04.01.30:925][ 52]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.08.13-04.01.30:927][ 52]LogBlueprintUserMessages: [Minimal_Default_C_13] Welcome to Warehouse Wreckage!!!
+[2025.08.13-04.01.30:927][ 52]LogBlueprintUserMessages: [Minimal_Default_C_13] Get ready to rumble!!
+[2025.08.13-04.01.30:928][ 52]PIE: Server logged in
+[2025.08.13-04.01.30:930][ 52]PIE: Play in editor total start time 0.12 seconds.
+[2025.08.13-04.01.35:974][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.01.35:975][187]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.01.35:975][187]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.08.13-04.01.35:975][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.01.36:013][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.13-04.01.36:028][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.01.36:081][187]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.13-04.01.36:081][187]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.08.13-04.01.36:081][187]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.08.13-04.01.36:083][187]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.08.13-04.01.36:090][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.01.36:093][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.08.13-04.01.36:173][188]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.08.13-04.02.04:048][759]Cmd: DELETE
+[2025.08.13-04.02.04:049][759]Cmd: ACTOR DELETE
+[2025.08.13-04.02.04:089][759]LogEditorActor: Deleted Actor: BP_Projectile_C
+[2025.08.13-04.02.04:135][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.08.13-04.02.04:139][759]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2025.08.13-04.02.06:991][822]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-04.02.06:991][822]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-04.02.06:992][822]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_3
+[2025.08.13-04.02.06:993][822]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_3
+[2025.08.13-04.02.08:594][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.08.13-04.02.08:599][865]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2025.08.13-04.02.08:604][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-04.02.08:604][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Maps/BP_Projectile.BP_Projectile_C
+[2025.08.13-04.02.08:607][865]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_4
+[2025.08.13-04.02.08:607][865]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BP_Projectile_C_4
+[2025.08.13-04.02.19:501][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.13-04.02.19:509][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.13-04.02.19:509][185]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.02.19:515][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005104s)
+[2025.08.13-04.02.19:515][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005151s)
+[2025.08.13-04.02.19:546][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.08.13-04.02.19:548][185]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default
+[2025.08.13-04.02.19:551][185]LogPlayLevel: PIE: World Init took: (0.002708s)
+[2025.08.13-04.02.19:553][185]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.08.13-04.02.19:553][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.13-04.02.19:553][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.13-04.02.19:553][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.13-04.02.19:553][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.13-04.02.19:553][185]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.13-04.02.19:553][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.13-04.02.19:553][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.13-04.02.19:553][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.13-04.02.19:553][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.13-04.02.19:553][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.13-04.02.19:553][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.13-04.02.19:557][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.13-04.02.19:586][185]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.08.13-04.02.19:586][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.13-04.02.19:586][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.13-04.02.19:586][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.13-04.02.19:586][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.08.13-04.02.19:586][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.08.13-04.02.19:589][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.08.13-04.02.19:589][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.08.13-04.02.19:589][185]LogInit: FAudioDevice initialized with ID 21.
+[2025.08.13-04.02.19:589][185]LogAudio: Display: Audio Device (ID: 21) registered with world 'Minimal_Default'.
+[2025.08.13-04.02.19:589][185]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.08.13-04.02.19:653][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.02.19:653][185]LogLoad: Game class is 'GameModeBase'
+[2025.08.13-04.02.19:655][185]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2025.08.12-23.02.19
+[2025.08.13-04.02.19:656][185]LogWorld: Bringing up level for play took: 0.002379
+[2025.08.13-04.02.19:659][185]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.08.13-04.02.19:662][185]LogBlueprintUserMessages: [Minimal_Default_C_13] Welcome to Warehouse Wreckage!!!
+[2025.08.13-04.02.19:662][185]LogBlueprintUserMessages: [Minimal_Default_C_13] Get ready to rumble!!
+[2025.08.13-04.02.19:665][185]PIE: Server logged in
+[2025.08.13-04.02.19:668][185]PIE: Play in editor total start time 0.158 seconds.
+[2025.08.13-04.02.39:414][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-04.02.39:414][726]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2025.08.13-04.02.39:417][726]LogSlate: Window 'WarehouseWreckage Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.13-04.02.39:476][726]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.08.13-04.02.39:476][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.02.39:479][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.13-04.02.39:485][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-04.02.39:517][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.08.13-04.02.39:517][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.08.13-04.02.39:519][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.08.13-04.02.39:532][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.08.13-04.02.39:604][727]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.08.13-04.05.36:670][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.13-04.05.36:834][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.13-04.05.36:860][423]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2025.08.13-04.05.36:862][423]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Saved/Minimal_Default8B115A8841E7066A279851B243DA7BAB.tmp' to '../../../../../../Users/natha/OneDrive/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2025.08.13-04.05.36:873][423]LogFileHelpers: All files are already saved.
+[2025.08.13-04.05.36:873][423]LogFileHelpers: Saving map 'Minimal_Default' took 0.092
+[2025.08.13-04.05.36:885][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.932 ms (total: 1.42 sec)
+[2025.08.13-04.05.36:947][423]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.13-04.05.36:948][423]LogContentValidation: Enabled validators:
+[2025.08.13-04.05.36:948][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.13-04.05.36:948][423]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.13-04.05.36:948][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.13-04.05.36:948][423]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.13-04.05.36:948][423]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.13-04.05.36:948][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.13-04.05.36:948][423]AssetCheck: /Game/StarterContent/Maps/Minimal_Default Validating asset
